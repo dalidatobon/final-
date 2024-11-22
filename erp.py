@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from fpdf import FPDF
 
-logo_path = "https://correoitmedu-my.sharepoint.com/:i:/g/personal/dalidasanchez301221_correo_itm_edu_co/Ec3DSv9MA6tCkFVt_jr5MOwB4AgsJ9Osgq2H2IekBFF3aA?e=0JnTCM"
+logo_path = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gkZlJLnj4f6E7Wzy4ZWuRF0Hu6CjzftyGg&s"
 st.write("Bienvenido al sistema ERP para la gestión de clientes, inventarios, facturación, reportes y análisis de ventas.")
 
 st.sidebar.title("ERP_ITM")
